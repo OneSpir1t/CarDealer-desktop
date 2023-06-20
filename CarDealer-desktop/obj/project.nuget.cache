@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "70ubzHLUGHdFoyjd0Am8izYZ3cxSN84iDFGwMZJjGSW9JuBO0zq5FNGSYD+IAHjCokTOQ3XcMl22SEJZsrJhcw==",
+  "dgSpecHash": "dhL+9oq1reD9RAZnN82yBzS5SP6KPIksbTHdQbwpRi97p28n1CXav3ARI/8r4zU9xf2QzY+uOeH8UpkAModPvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\79871\\source\\repos\\CarDealer-desktop — копия\\CarDealer-desktop\\CarDealer-desktop.csproj",
+  "projectFilePath": "C:\\Users\\79871\\source\\repos\\CarDealer-desktop\\CarDealer-desktop\\CarDealer-desktop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\79871\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\79871\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

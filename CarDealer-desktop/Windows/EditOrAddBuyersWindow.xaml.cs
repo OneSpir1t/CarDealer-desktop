@@ -79,7 +79,7 @@ namespace CarDealer.Windows
         private void AddEditBuyer_Button_Click(object sender, RoutedEventArgs e)
         {
             if(user.FirstName == null || user.LastName == null ||
-                user.Address == null || Passport_Textbox.Text.Length < 10 || Phone_Textbox.Text.Length < 11)
+                user.Address == null || Passport_Textbox.Text.Length < 9 || Phone_Textbox.Text.Length < 11)
             {
                 MessageBox.Show("Заполните поля");
             }

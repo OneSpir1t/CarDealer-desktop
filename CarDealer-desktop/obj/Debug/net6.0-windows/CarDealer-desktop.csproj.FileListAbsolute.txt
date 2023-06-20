@@ -44,7 +44,6 @@ C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0
 C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\UserControls\OrdersControl.g.cs
 C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\AnswerCallWindow.g.cs
 C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\AuthorizationWindow.g.cs
-C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\BuyersWindow.g.cs
 C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\CallBackOrderWindow.g.cs
 C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\EditOrAddBuyersWindow.g.cs
 C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\EditOrAddCarsWindow.g.cs
@@ -67,7 +66,6 @@ C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0
 C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\UserControls\OrdersControl.baml
 C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\AnswerCallWindow.baml
 C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\AuthorizationWindow.baml
-C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\BuyersWindow.baml
 C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\CallBackOrderWindow.baml
 C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\EditOrAddBuyersWindow.baml
 C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\EditOrAddCarsWindow.baml
@@ -195,3 +193,10 @@ C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\o
 C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\EditOrAddOrdersWindow.g.cs
 C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\EditOrAddOrdersWindow.baml
 C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop_Content.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\UserControls\AvailableCarsControl.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\AddOrEditAvailableCarWindow.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\UsersWindow.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop_Content.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\UserControls\AvailableCarsControl.baml
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\AddOrEditAvailableCarWindow.baml
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\UsersWindow.baml
