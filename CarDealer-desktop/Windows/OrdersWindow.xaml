@@ -1,0 +1,46 @@
+﻿<Window x:Class="CarDealer.Windows.OrdersWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CarDealer.Windows"
+        mc:Ignorable="d"
+        Title="Заказы" Height="450" Width="800" SizeChanged="Window_SizeChanged">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Label Content="Сортировка: "/>
+            <Label Grid.Column="1" Content="Марка: "/>
+            <Label Grid.Column="2" Content="Модель"/>
+            <ComboBox Grid.Row="1" Name="SortOrders_Combobox" Style="{StaticResource myStyleCombobox}" SelectionChanged="SortOrders_Combobox_SelectionChanged"/>
+            <ComboBox Grid.Row="1" SelectedIndex="0" Grid.Column="1" Name="BrandOrders_Combobox" Style="{StaticResource myStyleCombobox}" SelectionChanged="BrandOrders_Combobox_SelectionChanged"/>
+            <ComboBox Grid.Row="1" Grid.Column="2" SelectedIndex="0" Name="ModelOrders_Combobox" Style="{StaticResource myStyleCombobox}" SelectionChanged="ModelOrders_Combobox_SelectionChanged"/>
+        </Grid>
+        <ListView ScrollViewer.CanContentScroll="False" Grid.Row="1" Name="OrderList_View" MouseDoubleClick="OrderList_View_MouseDoubleClick" SelectionChanged="OrderList_View_SelectionChanged"/>
+        <Label Name="EmptyOrders_Label" Visibility="Hidden" Grid.Row="1" Content="Заказов пока нет.." FontSize="24" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button Name="AddEditOrder_Button" Width="100" Content="Новый заказ" Style="{StaticResource myStyleButton}" Click="AddEditOrder_Button_Click"/>
+            <Button x:Name="PrintDoc_Button" Grid.Column="1" Content="Сформировать документ" Width="200" Style="{StaticResource myStyleButton}" Click="PrintDoc_Button_Click"/>
+            <Button x:Name="Cancel_Button" Width="70" Grid.Column="2" Style="{StaticResource myStyleButton}" Content="Назад" Height="21" VerticalAlignment="Top" Click="Cancel_Button_Click"/>
+        </Grid>
+    </Grid>
+</Window>

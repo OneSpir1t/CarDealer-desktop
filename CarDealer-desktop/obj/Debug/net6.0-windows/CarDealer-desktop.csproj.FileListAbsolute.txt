@@ -1,0 +1,197 @@
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\CarDealer-desktop.exe
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\CarDealer-desktop.deps.json
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\CarDealer-desktop.runtimeconfig.json
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\CarDealer-desktop.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\CarDealer-desktop.pdb
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop.csproj.AssemblyReference.cache
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop_MarkupCompile.cache
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop_MarkupCompile.lref
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop.g.resources
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop.AssemblyInfoInputs.cache
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop.AssemblyInfo.cs
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop.csproj.CoreCompileInputs.cache
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop.csproj.CopyComplete
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\refint\CarDealer-desktop.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop.pdb
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop.genruntimeconfig.cache
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\ref\CarDealer-desktop.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\MainWindow.baml
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\UserControls\BuyersControl.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\UserControls\CallBackControl.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\UserControls\CarsControl.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\UserControls\OrdersControl.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\AnswerCallWindow.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\AuthorizationWindow.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\BuyersWindow.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\CallBackOrderWindow.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\EditOrAddBuyersWindow.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\EditOrAddCarsWindow.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\EditOrAddOrdersWindow.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\MainWindow.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\OrdersWindow.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop.csproj.ResolveComReference.cache
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\UserControls\BuyersControl.baml
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\UserControls\CallBackControl.baml
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\UserControls\CarsControl.baml
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\UserControls\OrdersControl.baml
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\AnswerCallWindow.baml
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\AuthorizationWindow.baml
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\BuyersWindow.baml
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\CallBackOrderWindow.baml
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\EditOrAddBuyersWindow.baml
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\EditOrAddCarsWindow.baml
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\EditOrAddOrdersWindow.baml
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\OrdersWindow.baml
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\App.baml
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\CarDealer-desktop.exe
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\CarDealer-desktop.deps.json
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\CarDealer-desktop.runtimeconfig.json
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\CarDealer-desktop.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\CarDealer-desktop.pdb
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop.csproj.AssemblyReference.cache
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop.csproj.ResolveComReference.cache
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\UserControls\BuyersControl.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\UserControls\CallBackControl.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\UserControls\CarsControl.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\UserControls\OrdersControl.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\AuthorizationWindow.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop_MarkupCompile.cache
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop_MarkupCompile.lref
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\App.baml
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\UserControls\BuyersControl.baml
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\UserControls\CallBackControl.baml
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\UserControls\CarsControl.baml
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\UserControls\OrdersControl.baml
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\AuthorizationWindow.baml
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop.g.resources
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop.AssemblyInfoInputs.cache
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop.AssemblyInfo.cs
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop.csproj.CoreCompileInputs.cache
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop.csproj.CopyComplete
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\refint\CarDealer-desktop.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop.pdb
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop.genruntimeconfig.cache
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\ref\CarDealer-desktop.dll
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\MainWindow.baml
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\MainWindow.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\EditOrAddCarsWindow.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\EditOrAddCarsWindow.baml
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\UserControls\AvailableCarsControl.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\UserControls\AvailableCarsControl.baml
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\AddOrEditAvailableCarWindow.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\AddOrEditAvailableCarWindow.baml
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\EditOrAddBuyersWindow.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\EditOrAddBuyersWindow.baml
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\CallBackOrderWindow.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\CallBackOrderWindow.baml
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\AnswerCallWindow.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\AnswerCallWindow.baml
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\OrdersWindow.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\OrdersWindow.baml
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\UsersWindow.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\UsersWindow.baml
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\EditOrAddOrdersWindow.g.cs
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\Windows\EditOrAddOrdersWindow.baml
+C:\Users\79871\source\repos\CarDealer-desktop — копия\CarDealer-desktop\obj\Debug\net6.0-windows\CarDealer-desktop_Content.g.cs

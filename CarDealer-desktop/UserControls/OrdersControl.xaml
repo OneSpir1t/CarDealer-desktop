@@ -1,0 +1,34 @@
+﻿<UserControl x:Class="CarDealer.UserControls.OrdersControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CarDealer.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="200" d:DesignWidth="500">
+    <Border BorderThickness="1" Margin="10" BorderBrush="#05ace2">
+        
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <StackPanel Grid.Row="1">
+                <Label x:Name="Buyer_Label"/>
+                <Label x:Name="Mark_Label"/>
+                <Label x:Name="Model_Label"/>
+                <Label x:Name="EquipmentName_Label"/>
+                <Label Name="isManager_Label"/>
+            </StackPanel>
+            <StackPanel Grid.Column="1" Grid.Row="1">
+                <Label Name="PhoneBuyer_Label"/>
+                <Label Name="DateOrder_Label"/>
+            </StackPanel>
+            <Label Grid.ColumnSpan="2" Name="NumOrder_Label" HorizontalAlignment="Center" VerticalAlignment="Top" />
+        </Grid>
+    </Border>
+</UserControl>

@@ -1,0 +1,87 @@
+﻿<Window x:Class="CarDealer.Windows.EditOrAddCarsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CarDealer.Windows"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        mc:Ignorable="d"
+        Title="Комплектация" Height="500" Width="590" SizeChanged="Window_SizeChanged" ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <StackPanel>
+                <Border BorderThickness="1" Margin="10" BorderBrush="Black">
+                    <Image x:Name="Car_Image" Width="180" Height="150" Margin="5"/>
+                </Border>
+                <Button Style="{StaticResource myStyleButton}" x:Name="ChangeImage_Button" Content="Выбрать фото" Click="ChangeImage_Button_Click"/>
+                <Label Content="Марка"/>
+                <ComboBox DisplayMemberPath="Title" SelectedIndex="0" Name="Mark_Combobox" Style="{StaticResource myStyleCombobox}"/>
+                <Label Content="Название модели:"/>
+                <TextBox x:Name="ModelName_Textbox" MaxLength="82" PreviewKeyDown="ModelName_Textbox_PreviewKeyDown" Margin="5,8,5,5"/>
+                <Label Content="Доступно к заказу:" HorizontalAlignment="Center"/>
+                <ComboBox SelectedIndex="0" Name="CanOrder_Combobox" Width="100" Style="{StaticResource myStyleCombobox}"/>
+            </StackPanel>
+            <StackPanel Grid.Column="1">
+                <Label Content="Тип кузова:"/>
+                <ComboBox DisplayMemberPath="Title" SelectedIndex="0" Name="BodyType_Combobox" Style="{StaticResource myStyleCombobox}"/>
+                <Label Content="Тип двигателя:"/>
+                <ComboBox DisplayMemberPath="Title" SelectedIndex="0" x:Name="TypeEngine_Combobox" Style="{StaticResource myStyleCombobox}"/>
+                <Label Content="Цена"/>
+                <TextBox Text="{Binding Path=Cost}" x:Name="Cost_Textbox" MaxLength="12" PreviewTextInput="Cost_Textbox_PreviewTextInput" PreviewKeyDown="Cost_Textbox_PreviewKeyDown"/>
+                <Label Content="Цвет: "/>
+                <ComboBox DisplayMemberPath="Title" Name="Color_Combobox" SelectedIndex="0" Style="{StaticResource myStyleCombobox}"/>
+                <Label Content="Объем двигателя: "/>
+                <TextBox Name="Enginedisplacement_TextBox" />
+                <Label Content="Тип трансмиссии:"/>
+                <ComboBox DisplayMemberPath="Title" Style="{StaticResource myStyleCombobox}" Name="Transmission_Combobox" SelectedIndex="0"/>
+            </StackPanel>
+            <StackPanel Grid.Column="2">
+                <Label Content="Название комплектации:"/>
+                <TextBox x:Name="NameEq_Textbox" Text="{Binding Path=Title}" MaxLength="80" PreviewKeyDown="NameEq_Textbox_PreviewKeyDown"/>
+                <Label Content="Кол-во л.с."/>
+                <TextBox x:Name="HorsePower_Textbox" MaxLength="4" PreviewTextInput="HorsePower_Textbox_PreviewTextInput" PreviewKeyDown="HorsePower_Textbox_PreviewKeyDown"/>
+                <Label Content="Дата сборки: (гггг)"/>
+                <ComboBox Style="{StaticResource myStyleCombobox}" SelectedIndex="0" Name="YearOfManufacture_Combobox"/>
+                <Label Content="Кол-во мест"/>
+                <ComboBox Style="{StaticResource myStyleCombobox}" Name="CountSeats_Combobox" SelectedIndex="4"/>
+                <Label Content="Тип привода:"/>
+                <ComboBox DisplayMemberPath="Title" Style="{StaticResource myStyleCombobox}" Name="DriveType_Combobox" SelectedIndex="0"/>
+                <Button Content="В наличии&lt;" Name="ShowAC_Button" HorizontalAlignment="Right" Style="{StaticResource myStyleButton}" Click="ShowAC_Button_Click"/>
+            </StackPanel>
+            <StackPanel x:Name="AvailableCars_StackPanel" Grid.Column="3">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+                    <Label Name="AvailableCarsCount_Label"/>
+                    <ListView ScrollViewer.HorizontalScrollBarVisibility="Disabled" Grid.Row="1" Height="340" ScrollViewer.CanContentScroll="false" Margin="10" x:Name="AvailableCars_ListView" MouseDoubleClick="AvailableCars_ListView_MouseDoubleClick" SelectionChanged="AvailableCars_ListView_SelectionChanged"/>
+                    <Label Grid.Row="1" Content="Автомобилей в наличии не найдено..." Name="NotFound_Label" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    <Button Grid.Row="2" Style="{StaticResource myStyleButton}" Content="Добавить" Width="100" x:Name="AddAC_Button" Click="AddAC_Button_Click"/>
+                </Grid>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="AddChange_Button" Style="{StaticResource myStyleButton}" Content="Добавить" Click="AddChange_Button_Click" Height="21" Margin="5,5,5,0" VerticalAlignment="Top"/>
+            <Button Name="DeleteEq_Button" Content="Удалить" Grid.Column="1" Style="{StaticResource myStyleButton}" Click="DeleteEq_Button_Click"/>
+            <Button x:Name="Cancel_Button" Grid.Column="2" Content="Отмена" Style="{StaticResource myStyleButton}" Click="Cancel_Button_Click"/>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,50 @@
+﻿<Window x:Class="CarDealer_desktop.Windows.AddOrEditAvailableCarWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CarDealer_desktop.Windows"
+        mc:Ignorable="d"
+        Title="Автомобиль в наличии" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label Name="AcId_Label"/>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Владельцев:"/>
+                <TextBox x:Name="Owners_TextBox" Width="40" MaxLength="2" PreviewTextInput="Owners_TextBox_PreviewTextInput"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Пробег:"/>
+                <TextBox x:Name="MileAge_TextBox" Width="70" MaxLength="6" PreviewTextInput="MileAge_TextBox_PreviewTextInput"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="VIN:"/>
+                <TextBox x:Name="VIN_TextBox" Width="160" MaxLength="17" PreviewTextInput="VIN_TextBox_PreviewTextInput"/>
+            </StackPanel>
+            <StackPanel Orientation="Vertical">
+                <Label Content="Доступно к заказу:"/>
+                <ComboBox x:Name="CanOrder_Combobox" SelectedIndex="0" Width="60">
+                    <ComboBoxItem Content="Нет"/>
+                    <ComboBoxItem Content="Да"/>
+                </ComboBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Style="{StaticResource myStyleButton}" x:Name="AddOrEditAC_Button" Content="Добавить автомобиль в наличии" Click="AddOrEditAC_Button_Click" />
+                <Button Style="{StaticResource myStyleButton}" Content="Удалить" Name="RemoveAC_Button" Click="RemoveAC_Button_Click"/>
+            </StackPanel>
+        </StackPanel>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button Grid.Column="3" Grid.Row="1" Style="{StaticResource myStyleButton}" Content="Назад" Click="Button_Click"/>
+        </Grid>
+    </Grid>
+</Window>
