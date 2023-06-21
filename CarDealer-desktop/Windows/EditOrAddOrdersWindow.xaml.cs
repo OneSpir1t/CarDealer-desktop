@@ -128,7 +128,6 @@ namespace CarDealer.Windows
                     {
                         order.AvailableCar = null;
                     }
-                    order.Date = date;
                     order.Equipment = (Equipment)Equipment_Combobox.SelectedItem;
                     order.Buyer = (User)Buyer_Combobox.SelectedItem;
                     CDContext.cdContext.SaveChanges();

@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\
+C:\Users\PC1\OneDrive\Рабочий стол\CarDealer-desktop\CarDealer-desktop\obj\Debug\net6.0-windows\
 CarDealer_desktop
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\79871\source\repos\CarDealer-desktop\CarDealer-desktop\App.xaml
+C:\Users\PC1\OneDrive\Рабочий стол\CarDealer-desktop\CarDealer-desktop\App.xaml
 15-1326255271
 11984015289
 37-1323198168
-231870156189
+231-1761064019
 UserControls\AvailableCarsControl.xaml;UserControls\BuyersControl.xaml;UserControls\CallBackControl.xaml;UserControls\CarsControl.xaml;UserControls\OrdersControl.xaml;Windows\AddOrEditAvailableCarWindow.xaml;Windows\AnswerCallWindow.xaml;Windows\AuthorizationWindow.xaml;Windows\CallBackOrderWindow.xaml;Windows\EditOrAddBuyersWindow.xaml;Windows\EditOrAddCarsWindow.xaml;Windows\EditOrAddOrdersWindow.xaml;Windows\MainWindow.xaml;Windows\OrdersWindow.xaml;Windows\UsersWindow.xaml;
 
 False
